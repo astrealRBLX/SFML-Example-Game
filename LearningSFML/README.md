@@ -1,0 +1,1 @@
+A miniature SFML game example made in C++
